@@ -20,7 +20,7 @@ Computer Science student at Manipal Institute of Technology, interested in backe
   <img src="https://skillicons.dev/icons?i=docker,kafka,git,gcp,postman&theme=dark&perline=5" alt="Tools and infrastructure" />
 </p>
 
-**Other technologies:** Spring Cloud, Project Reactor, Spring AI, Hibernate, Supabase, REST APIs, GraphQL, Microservices, API Gateway, Service Discovery.
+**Other technologies:** Spring Cloud, Project Reactor, Spring AI, Hibernate, Supabase, REST APIs, GraphQL, Microservices.
 
 ## Profiles
 
