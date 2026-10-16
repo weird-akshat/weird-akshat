@@ -22,22 +22,6 @@ Computer Science student at Manipal Institute of Technology, interested in backe
 
 **Other technologies:** Spring Cloud, Project Reactor, Spring AI, Hibernate, Supabase, REST APIs, GraphQL, Microservices, API Gateway, Service Discovery.
 
-## Projects
-
-**Automated Placement Management System**
-
-A microservices-based placement tracking application with AI-powered message classification and automated data extraction.
-
-**Reactive LeetCode Data Aggregation Service**
-
-An asynchronous data pipeline built with Spring Boot, Project Reactor, WebFlux, and PostgreSQL to synchronize LeetCode statistics and serve rankings efficiently.
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weird-akshat&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weird-akshat&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used languages" />
-</p>
 
 ## Profiles
 
